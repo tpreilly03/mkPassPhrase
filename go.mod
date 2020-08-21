@@ -1,3 +1,3 @@
-module tpreillySoftware.com/mkPassPhrase
+module tpreillySoftware.org/mkPassPhrase
 
 go 1.15
