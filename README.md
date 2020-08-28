@@ -14,6 +14,6 @@ Procedure:
 	4. Repeat this for as many words as you think you can remember. Minimally
 	   five words, but six or seven would be better. Ten words is doable. You
 	   can think of it as two five word pass phrases.
-	5. Optionally, include a space or different single characters from above
-	   the numbers on your keyboard as separators between the words when
-	   forming your pass phrase to make it even stronger.
+	5. Optionally, include a space or digit, or different single characters
+	   from above the numbers on your keyboard as separators between the words
+	   when forming your pass phrase to make it even stronger.
